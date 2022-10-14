@@ -1,0 +1,23 @@
+
+.container-gambar{
+    margin-left: 11cm;
+    float: left
+}
+
+.container-tabel{
+    margin-right: 11cm ;
+    float: right;
+}
+
+.container-text{
+    text-align: justify;
+    padding-top: 5cm;
+    margin-left: 11cm;
+    margin-right: 11cm;
+}
+
+.tabel{
+    text-align: center;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
